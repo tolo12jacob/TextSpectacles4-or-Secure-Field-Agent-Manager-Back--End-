@@ -4,3 +4,7 @@ Admin - username - admin
 Admin - password - 123
 Tutor - username - Toya
 Tutor - password - 123
+
+Tech stack - 
+EJB, JPQL
+html,javascript
